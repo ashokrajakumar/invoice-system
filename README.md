@@ -42,7 +42,7 @@ Install the following software before setting up the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ashokrajakumar/invoice-system.git
 ```
 
 Navigate to the project directory:
